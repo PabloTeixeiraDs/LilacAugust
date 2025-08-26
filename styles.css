@@ -27,7 +27,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   width: 370px;
-  height: 460px;
+  height: 500px;
   border-radius: 35px;
   background: rgb(46, 7, 63);
   text-align: center;
@@ -52,7 +52,7 @@ p {
 .card h2 {
   font-size: 1.2rem;
   color: #e49bff;
-  margin-top: 1.8rem;
+  margin-top: 4rem;
 }
 
 .school p {
